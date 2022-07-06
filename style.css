@@ -1,0 +1,17 @@
+header{
+    background-image: url(assets/spa-header.jpg);
+    height: 246px;
+    background-repeat: no-repeat;
+}    
+.personalInfo{
+    text-align: center;
+    color: rgb(221, 24, 149);
+}
+.headerDiv{
+    display: flex;
+    justify-content: right;
+    background-color: white;
+}
+div{
+    padding-left: 30px;
+}

@@ -1,0 +1,18 @@
+[
+    {
+      "userId": 1,
+      "login": "admin",
+      "password": "ce02b71af8a7f7b7292ded5a655a9c6ea4e92d86",
+      "name": "Admin",
+      "DoB": 1652994000,
+      "isAdmin": 1
+    },
+    {
+      "userId": 2,
+      "login": "cbp",
+      "password": "9d4e1e23bd5b727046a9e3b4b7db57bd8d6ee684",
+      "name": "Андрей",
+      "DoB": 1652821200,
+      "isAdmin": 0
+    }
+  ]
